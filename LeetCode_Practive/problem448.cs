@@ -11,6 +11,8 @@ namespace LeetCode_Practive
         static void Main448(string[] args)
         {
             //https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+            //help from
+            //https://www.youtube.com/watch?v=8i-f24YFWC4
             int[] nums = { 4, 3, 2, 7, 8, 2, 3, 1 };
             List<int> ans = FindDisappearedNumbers(nums);
             for (int i = 0; i < ans.Count(); i++)

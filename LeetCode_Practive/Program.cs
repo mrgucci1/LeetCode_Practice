@@ -11,9 +11,9 @@ namespace LeetCode_Practive
     {
         static void Main(string[] args)
         {
-            //link goes here
-            Console.WriteLine("Ready for next problem, Sire!");
+            Console.WriteLine("Ready for next problem Sire!");
             Console.ReadKey();
+            
         }
     }
 }

@@ -12,6 +12,9 @@ namespace LeetCode_Practive
         public void Main752(string[] args)
         {
             //https://leetcode.com/problems/open-the-lock/
+            //help from
+            //https://www.youtube.com/watch?v=Pzg3bCDY87w
+            //https://leetcode.com/problems/open-the-lock/discuss/417274/C-Solution
             string[] deadends = { "0201", "0101", "0102", "1212", "2002" };
             string target = "0202";
             int ans = OpenLock(deadends, target);
