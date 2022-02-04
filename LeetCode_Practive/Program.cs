@@ -13,7 +13,6 @@ namespace LeetCode_Practive
         {
             Console.WriteLine("Ready for my next problem Sire!");
             Console.ReadKey();
-            
         }
     }
 }
