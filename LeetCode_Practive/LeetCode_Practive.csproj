@@ -58,10 +58,12 @@
     <Compile Include="problem283.cs" />
     <Compile Include="problem3.cs" />
     <Compile Include="problem367.cs" />
+    <Compile Include="problem374.cs" />
     <Compile Include="problem380.cs" />
     <Compile Include="problem448.cs" />
     <Compile Include="problem53.cs" />
     <Compile Include="problem532.cs" />
+    <Compile Include="problem56.cs" />
     <Compile Include="problem560.cs" />
     <Compile Include="problem64.cs" />
     <Compile Include="problem678.cs" />
